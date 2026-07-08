@@ -1,9 +1,9 @@
 import json
 import anthropic
 from openai import OpenAI
-from Backend.config import ANTHROPIC_API_KEY, CLAUDE_MODEL, OPENAI_API_KEY, OPENAI_MODEL
-from Backend.config import DEV_MOCK
-import Backend.rag_engine as rag_engine
+from config import ANTHROPIC_API_KEY, CLAUDE_MODEL, OPENAI_API_KEY, OPENAI_MODEL
+from config import DEV_MOCK
+import rag_engine
 from typing import List
 
 # Initialize clients conditionally
@@ -218,3 +218,4 @@ Question: {question}"""
         "sources": sources,
         "suggested_actions": actions,
     }
+
