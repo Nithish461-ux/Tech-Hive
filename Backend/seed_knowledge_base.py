@@ -1,5 +1,5 @@
 import os
-import Backend.rag_engine as rag_engine
+import rag_engine
 
 SEED_DIR = os.path.join(os.path.dirname(__file__), "seed_data")
 
@@ -34,3 +34,4 @@ def run():
 
 if __name__ == "__main__":
     run()
+
