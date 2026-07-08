@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  background-color: #f6f7fb;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+:root {
+  --color-brand-50: #f0f9ff;
+  --color-brand-100: #e0f2fe;
+  --color-brand-200: #bae6fd;
+  --color-brand-300: #7dd3fc;
+  --color-brand-400: #38bdf8;
+  --color-brand-500: #0ea5e9;
+  --color-brand-600: #0284c7;
+}
+
+@layer components {
+  .bg-brand-50 {
+    @apply bg-blue-50;
+  }
+  .bg-brand-100 {
+    @apply bg-blue-100;
+  }
+  .bg-brand-200 {
+    @apply bg-blue-200;
+  }
+  .bg-brand-400 {
+    @apply bg-blue-400;
+  }
+  .bg-brand-500 {
+    @apply bg-blue-500;
+  }
+  .bg-brand-600 {
+    @apply bg-blue-600;
+  }
+  .text-brand-50 {
+    @apply text-blue-50;
+  }
+  .text-brand-600 {
+    @apply text-blue-600;
+  }
+  .text-brand-700 {
+    @apply text-blue-700;
+  }
+  .border-brand-200 {
+    @apply border-blue-200;
+  }
+  .border-brand-400 {
+    @apply border-blue-400;
+  }
+}

@@ -1,0 +1,36 @@
+# Academic Programs and Courses
+
+Our institution offers 50+ undergraduate and postgraduate programs across multiple disciplines.
+
+## Undergraduate Programs
+- Bachelor of Science (B.Sc) in Physics, Chemistry, Biology, Computer Science, Information Technology
+- Bachelor of Commerce (B.Com) in Accounting, Finance, Business Administration
+- Bachelor of Arts (B.A) in English, History, Economics, Political Science, Psychology
+- Bachelor of Engineering (B.E) in Civil, Mechanical, Electrical, Electronics, Computer Science
+
+## Postgraduate Programs
+- Master of Science (M.Sc) in various scientific disciplines
+- Master of Business Administration (MBA)
+- Master of Arts (M.A)
+- Master of Technology (M.Tech)
+
+## Core Curriculum
+Students in Science stream study Physics, Chemistry, and Mathematics as core subjects along with specialized courses in their chosen discipline.
+
+Commerce students focus on Accounting, Economics, Business Law, and Taxation among others.
+
+Arts students have flexibility in choosing subjects from Humanities and Social Sciences.
+
+Engineering students follow a rigorous curriculum combining theory and practical applications in their respective fields.
+
+## Credit System
+All programs follow a semester-based credit system. Each course carries specific credit hours. Students need to complete minimum credit hours to graduate.
+
+## Electives and Specializations
+Students can choose electives based on their interests. The institution offers specialization tracks in areas like Data Science, Artificial Intelligence, Finance, Marketing, and many others.
+
+## Faculty
+Our faculty members are experienced professionals with advanced degrees and industry experience. The student-faculty ratio is maintained at 15:1 for effective learning.
+
+## Laboratory Facilities
+All science and engineering departments have well-equipped laboratories with modern instruments and software for hands-on learning experiences.
