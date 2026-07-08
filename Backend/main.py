@@ -2,10 +2,10 @@ from contextlib import asynccontextmanager
 
 from fastapi import FastAPI, UploadFile, File, Form, Query, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-import Backend.rag_engine as rag_engine
-from Backend.document_loader import load_file, load_url
-from Backend.models import ChatRequest, ChatResponse, AddUrlRequest, DocumentInfo
-from Backend import seed_knowledge_base
+import rag_engine
+from document_loader import load_file, load_url
+from models import ChatRequest, ChatResponse, AddUrlRequest, DocumentInfo
+import seed_knowledge_base
 
 
 @asynccontextmanager

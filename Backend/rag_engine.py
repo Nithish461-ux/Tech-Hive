@@ -17,8 +17,8 @@ except Exception:
             return [[0.0] * 768 for _ in texts]
     _embedder = _FallbackEmbedder()
 
-from Backend.config import CHROMA_DIR, EMBEDDING_MODEL_NAME, TOP_K_RESULTS
-from Backend.document_loader import chunk_text
+from config import CHROMA_DIR, EMBEDDING_MODEL_NAME, TOP_K_RESULTS
+from document_loader import chunk_text
 
 if chromadb:
     _client = chromadb.PersistentClient(path=CHROMA_DIR)
